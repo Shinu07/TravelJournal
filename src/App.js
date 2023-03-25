@@ -11,7 +11,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      {Cards}
+      <section className="cards-list">{Cards}</section>
       <Footer />
     </>
   );

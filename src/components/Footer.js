@@ -1,5 +1,18 @@
-import React from "react";
-
 export default function Footer() {
-  return <div>Footer</div>;
+  return (
+    <footer className="footer">
+      <small>
+        Made with ❤️ by{" "}
+        <a
+          className="footer-link"
+          href="soumya"
+          target="_blank"
+          rel="noreferrer"
+        >
+          @SoumyaRanjanPurohit
+        </a>
+        .
+      </small>
+    </footer>
+  );
 }
