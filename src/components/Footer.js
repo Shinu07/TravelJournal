@@ -5,7 +5,7 @@ export default function Footer() {
         Made with ❤️ by{" "}
         <a
           className="footer-link"
-          href="soumya"
+          href="https://github.com/Shinu07"
           target="_blank"
           rel="noreferrer"
         >
