@@ -1,6 +1,6 @@
 
 # Check out 
-live demo (click)[https://travel-journalbhsinu.netlify.app/]
+live demo [click](https://travel-journalbhsinu.netlify.app/)
 
 # Getting Started with Create React App
 
